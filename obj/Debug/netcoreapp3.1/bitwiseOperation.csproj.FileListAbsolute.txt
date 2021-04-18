@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.exe
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.deps.json
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.dll
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\bin\Debug\netcoreapp3.1\bitwiseOperation.pdb
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.dll
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.pdb
+C:\Users\3zAl7arbi\source\repos\bitwiseOperation\bitwiseOperation\obj\Debug\netcoreapp3.1\bitwiseOperation.genruntimeconfig.cache
